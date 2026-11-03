@@ -111,31 +111,23 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cnniranjan72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" height="180"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOGITH-D&layout=compact&theme=tokyonight&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOGITH-D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOGITH-D&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=808080" width="49%"/>
 
-</div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGITH-D&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=10" width="45%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOGITH-D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cnniranjan72&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
+</p>
 
 ---
+
+
 
 ## 🐍 Contribution Snake
 
@@ -151,13 +143,19 @@
 
 ---
 
-## 📈 Activity Graph
+## 🚀 Featured Projects
 
-<div align="center">
+### 💘 [Zyhmee](https://github.com/YOGITH-D/Zyhmee) - Online Dating Application
+Cross-platform dating app with Tinder-style swipes, real-time matching and JWT authentication.
+`React Native` `TypeScript` `NestJS` `TypeORM` `MySQL`
 
-[![YOGITH-D's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOGITH-D&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🍲 [FoodLink](https://github.com/YOGITH-D/FoodLink) - AI Powered Food Redistribution Platform
+Connects restaurants, hotels and event organizers with NGOs to reduce food wastage, using an ML model to predict food shelf life.
+`Flutter` `FastAPI` `Firebase` `Machine Learning` `Google Maps API`
 
-</div>
+### ⛏️ [KGF](https://github.com/YOGITH-D/KGF) - Kaizen Geo-Metallurgical Framework
+Web-based ML interface for real-time prediction of silica concentration in iron ore from industrial time-series data.
+`Python` `Flask` `Machine Learning` `Time-Series`
 
 ---
 
