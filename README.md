@@ -112,7 +112,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cnniranjan72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOGITH-D&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" height="180"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cnniranjan72&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOGITH-D&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
 </p>
 
 ---
